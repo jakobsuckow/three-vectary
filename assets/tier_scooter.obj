@@ -1,5 +1,5 @@
 # Vectary OBJ Export units=mm
-mtllib Project Name.mtl
+mtllib Tier Scooter.mtl
 o 000_object_1
 g object_1
 usemtl object_1 material_89f8bc59-7f5f-4afe-bbb6-a76d1b8ce8e7
